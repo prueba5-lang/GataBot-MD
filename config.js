@@ -11,23 +11,23 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480"], 
-["5492266466080"], 
-["593968585383"], 
-["5492266613038"],
-["51948705559"],
-["5217294888993"]]
+["19518177097", '𝙊𝙬𝙣𝙚𝙧 ', true], //𝘽𝙤𝙩-𝙈𝘿 
+["51913875709"], 
+["17126247863"], 
+["19793162344"], 
+["19518177097"],
+["19518177097"],
+["19518177097"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +19518177097
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["528451003894"]
+global.prems = ["19518177097"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -55,7 +55,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "GataDios"
+global.lolkeysapi = "𝘽𝙤𝙩-𝙈𝘿"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 
@@ -101,47 +101,47 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["18059196237", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["59894808483", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Prueba', 1]]
+["19518177097", '𝘽𝙤𝙩-𝙈𝘿 💻', 1], 
+["19518177097", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["51913875709", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["19518177097", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["17126247863", 'Prueba', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇵🇪
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = "𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.author = "𝘽𝙤𝙩-𝙈𝘿"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.yt = "https://youtube.com/@gatadios"
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
+global.gt = "𝘽𝙤𝙩-𝙈𝘿"
+global.yt = "https://www.youtube.com/@The_droid"
+global.yt2 = "https://www.youtube.com/@The_droid"
 global.ig = "https://www.instagram.com/gata_dios"
 global.md = "https://github.com/GataNina-Li/GataBot-MD"
 global.fb = "https://www.facebook.com/groups/872989990425789/"
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
-global.nn = 'https://chat.whatsapp.com/Ii0hagX0idw4C7Gxwts54x' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/LGHW0ZwLgpeH7Nsn4vlrWi' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Jvhbjxueer0GSdOw75ZtWR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/Gysm0PMJ4zg7ts0E9t91Hz' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IZeaMQos8pxEhlyVI6yZaa' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/B8lrwGzSUbf7zlZHDAwCQ8'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50660400020' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //UPDATE
+global.nna2 = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //Help
+global.nn = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/K92vtq58JLd9fMy2WOJCGW' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/Gysm0PMJ4zg7ts0E9tx91Hz' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/IZeaMQos8pxEhlyVI6xyZaa' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/B8lrwGzSUbf7zlZHDxAwCQ8'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLxSC5YLa' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TxZdmhBH' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3rexCU8Dw' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCxeFhPP' //A.T.M.M
+global.paypal = 'https://paypal.me/xxxxx'
+global.asistencia = 'Wa.me/19518177097' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -175,13 +175,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.wm = "𝘽𝙤𝙩-𝙈𝘿 : 𝘽𝙤𝙩-𝙈𝘿"
+global.igfg = "𝘽𝙤𝙩-𝙈𝘿"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "593993684821"
+global.nomorown = "19518177097"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
